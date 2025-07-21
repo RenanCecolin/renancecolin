@@ -4,7 +4,7 @@ Desenvolvedor em formação e curioso por natureza. Gosto de entender/aprender c
 
 Tenho mergulhado em Kotlin, Python e IA, com foco em criar soluções que vão além do básico. Estou sempre testando ideias, quebrando a cabeça e aprendendo no processo.
 
-Minha missão? Crescer como dev,  construir coisas que façam sentido de verdade, sempre aprender coisas novas e evoluir cada vez as minhas habilidades e meus conhecimentos. 👊
+Minha missão? Crescer como dev,  construir coisas que façam sentido de verdade, sempre aprender coisas novas e evoluir cada vez mais as minhas habilidades e meus conhecimentos. 👊
 
 ---
 
