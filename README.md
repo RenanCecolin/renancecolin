@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Renan 👋
 
 Desenvolvedor em formação e curioso por natureza. Gosto de entender/aprender como as coisas funcionam e transformar isso em código bem feito.
+
 Tenho mergulhado em Kotlin, Python e IA, com foco em criar soluções que vão além do básico. Estou sempre testando ideias, quebrando a cabeça e aprendendo no processo.
+
 Minha missão? Crescer como dev,  construir coisas que façam sentido de verdade, sempre aprender coisas novas e evoluir cada vez as minhas habilidades e meus conhecimentos. 👊
 
 ---
@@ -21,15 +23,19 @@ Minha missão? Crescer como dev,  construir coisas que façam sentido de verdade
 
 ### 💻 Linguagens:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white&style=flat-square)
 
 ### 🚀 Frameworks e Bibliotecas:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square) 
 
 ### 🛠️ Ferramentas de Desenvolvimento:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
@@ -50,6 +56,7 @@ Minha missão? Crescer como dev,  construir coisas que façam sentido de verdade
 ## 📚 Meus estudos
 
 Organizo meus aprendizados em projetos práticos, anotações e experiências reais.
+
 Além das matérias da faculdade, estou sempre explorando conteúdos voltados à prática — como inteligência artificial e boas práticas de código limpo.
 
 ---
@@ -65,4 +72,3 @@ Além das matérias da faculdade, estou sempre explorando conteúdos voltados à
 📫 **Vamos nos conectar!**
 - LinkedIn: https://www.linkedin.com/in/renan-negri-cecolin-828552324/
 - Email: rececolin@gmail.com
-- 
