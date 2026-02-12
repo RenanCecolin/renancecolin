@@ -46,117 +46,122 @@ My mission? To grow as a developer, build things that truly make sense, constant
 
 ## 🚀 Featured Projects
 
-### 🌐 Aeropuc – Plataforma Web
+### 🌐 Aeropuc – Web Platform
 
-🎯 Objetivo do Projeto:
-Desenvolver uma aplicação web como projeto acadêmico, com foco na criação de uma interface funcional e integração com banco de dados em nuvem.
+🎯 Project Goal:
 
-👨‍💻 Meu Papel no Projeto:
-Foi meu primeiro contato com desenvolvimento web. Fiquei responsável principalmente pela estilização e organização visual da interface, trabalhando na estruturação do layout e na experiência do usuário.
+Develop a web application as an academic project, focusing on building a functional interface and integrating it with a cloud database.
 
-🛠️ Tecnologias Utilizadas:
+👨‍💻 My Role in the Project:
+
+This was my first contact with web development. I was mainly responsible for the styling and visual organization of the interface, working on layout structuring and user experience.
+
+🛠️ Technologies Used:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
-📚 O que eu aprendi com esse projeto:
+📚 What I Learned from This Project:
 
- - Estruturação de páginas web do zero
+ - Building web pages from scratch
 
- - Separação entre estrutura (HTML), estilo (CSS) e lógica (JS/TS)
+ - Separating structure (HTML), styling (CSS), and logic (JS/TS)
 
- - Conceitos básicos de tipagem com TypeScript
+ - Basic typing concepts with TypeScript
 
- - Integração com banco de dados utilizando Firebase
+ - Database integration using Firebase
 
- - Importância da organização visual e usabilidade
+ - The importance of visual organization and usability
 
-🔗 Repositório:
+🔗 Repository:
 https://github.com/leogianfagna/AeroPuc
 
 ---
 
-### 📱 Campus Connect – Aplicativo Android
+### 📱 Campus Connect – Android Application
 
-🎯 Objetivo do Projeto:
-Desenvolver um aplicativo Android voltado para os estudantes da PUC-Campinas, funcionando como um catálogo digital da praça de alimentação. A proposta era permitir que os alunos visualizassem restaurantes, lojas, produtos, preços, promoções e descontos disponíveis no campus.
+🎯 Project Goal:
 
-O aplicativo também incluía a ideia de monetização, com exibição de anúncios e possibilidade de versão sem propaganda.
+Develop an Android application for PUC-Campinas students, functioning as a digital food court catalog. The goal was to allow students to view restaurants, stores, products, prices, promotions, and discounts available on campus.
 
-👨‍💻 Meu Papel no Projeto:
-Fui responsável principalmente pelo desenvolvimento do front-end do aplicativo.
+The app also included a monetization concept, with ads and the possibility of an ad-free version.
 
- - Criação e estruturação das telas
+👨‍💻 My Role in the Project:
 
- - Implementação da navegação entre telas
+I was mainly responsible for the front-end development of the application.
 
- - Organização da interface e experiência do usuário
+ - Creating and structuring the screens
 
- - Integração das telas com a lógica de backend
+ - Implementing screen navigation
 
-Praticamente desenvolvi toda a parte visual do app.
+ - Organizing the interface and user experience
 
-🛠️ Tecnologias Utilizadas:
+ - Integrating screens with backend logic
+
+I practically developed the entire visual part of the app.
+
+🛠️ Technologies Used:
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
 ![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
-📚 O que eu aprendi com esse projeto:
+📚 What I Learned from This Project:
 
- - Primeira experiência real com desenvolvimento Android
+ - First real experience with Android development
 
- - Primeiros contatos com Kotlin e XML
+ - First contact with Kotlin and XML
 
- - Estruturação de aplicações mobile no Android Studio
+ - Structuring mobile applications in Android Studio
 
- - Conceitos de comunicação entre app e servidor
+ - Concepts of app-server communication
 
- - Desenvolvimento de um servidor em Java
+ - Backend development in Java
 
- - Organização entre front-end mobile e backend
+ - Organization between mobile front-end and backend
 
- - Experiência prática com Firebase
+ - Practical experience with Firebase
 
-Esse projeto marcou minha entrada no desenvolvimento mobile e ampliou minha visão sobre como aplicações completas funcionam, do front ao servidor.
+This project marked my entry into mobile development and expanded my understanding of how full applications work, from front-end to server.
 
-🔗 Repositórios:
+🔗 Repositories:
 https://github.com/IProjetoIntegradorIV/ProjetoIntegradorIV | https://github.com/MateusMistro/ServidorCampusConnect
 
 ---
 
-### 📈 Finsight – Aplicativo de Análise Preditiva de Mercado
+### 📈 Finsight – Market Predictive Analysis Application
 
-🎯 Objetivo do Projeto:
-Desenvolver um aplicativo Android capaz de analisar dados de mercado e, utilizando Inteligência Artificial, estimar possíveis ganhos e perdas de determinadas empresas ao longo do tempo.
+🎯 Project Goal:
 
-A proposta era permitir que o usuário visualizasse previsões como:
+Develop an Android application capable of analyzing market data and, using Artificial Intelligence, estimating potential gains and losses of specific companies over time.
 
- - Possível alta ou queda de determinada empresa
+The goal was to allow users to visualize predictions such as:
 
- - Tendências em dias ou meses futuros
+ - Possible rise or fall of a company
 
- - Projeções baseadas em modelos treinados
+ - Trends in future days or months
 
-O foco do projeto foi aplicar IA em um contexto prático de mercado financeiro.
+ - Projections based on trained models
 
-👨‍💻 Meu Papel no Projeto:
+The focus was to apply AI in a practical financial market context.
 
-Atuei tanto no front-end mobile quanto no back-end da aplicação.
+👨‍💻 My Role in the Project:
 
- - Desenvolvimento das telas do aplicativo Android
+I worked on both the mobile front-end and the backend.
 
- - Integração entre interface e backend
+ - Development of Android application screens
 
- - Criação de APIs para comunicação com o servidor
+ - Integration between interface and backend
 
- - Participação na estrutura da lógica de dados
+ - API creation for server communication
 
-Foi meu primeiro projeto aplicando Inteligência Artificial integrada a um aplicativo real.
+ - Participation in data logic structuring
 
-🛠️ Tecnologias Utilizadas:
+This was my first project applying Artificial Intelligence integrated into a real application.
+
+🛠️ Technologies Used:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
@@ -164,65 +169,65 @@ Foi meu primeiro projeto aplicando Inteligência Artificial integrada a um aplic
 ![XML](https://img.shields.io/badge/-XML-FF6600?logo=xml&logoColor=white&style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 
-📚 O que eu aprendi com esse projeto:
+📚 What I Learned from This Project:
 
- - Aplicação prática de Inteligência Artificial em um produto real
+ - Practical application of Artificial Intelligence in a real product
 
- - Integração entre aplicativo mobile e backend em Django
+ - Integration between mobile application and Django backend
 
- - Criação e estruturação de APIs
+ - API creation and structuring
 
- - Utilização de banco de dados NoSQL (MongoDB)
+ - Use of NoSQL database (MongoDB)
 
- - Organização de fluxo entre modelo preditivo e aplicação
+ - Organization between predictive model and application flow
 
- - Visão mais ampla sobre arquitetura cliente-servidor
+ - Broader understanding of client-server architecture
 
-Esse projeto expandiu muito minha visão sobre como IA pode ser integrada a aplicações completas, indo além da teoria e aplicando em um cenário real.
+This project significantly expanded my perspective on how AI can be integrated into complete applications beyond theory, applying it in a real-world scenario.
 
-🔗 Repositório: https://github.com/leogianfagna/Finsight
+🔗 Repository: https://github.com/leogianfagna/Finsight
 
 ---
 
-### 🏎️ KartCalendar – Plataforma Web para Cartódromo (Em desenvolvimento)
+### 🏎️ KartCalendar – Web Platform for a Karting Track (In Development)
 
-🎯 Objetivo do Projeto:
+🎯 Project Goal:
 
-Desenvolver uma aplicação web para um cartódromo real, com foco principal no agendamento de baterias.
+Develop a web application for a real karting track, mainly focused on race session scheduling.
 
-A plataforma inclui:
+The platform includes:
 
- - Sistema de agendamento de horários
+ - Time slot booking system
 
- - Tela de pagamento
+ - Payment screen
 
- - Compra de equipamentos
+ - Equipment purchase
 
- - Organização e gerenciamento de reservas
+ - Reservation management
 
- - Tela de administrador
+ - Admin panel
 
-O projeto está atualmente em desenvolvimento, com melhorias contínuas e novas funcionalidades sendo implementadas.
+The project is currently under development, with continuous improvements and new features being implemented.
 
-👨‍💻 Meu Papel no Projeto:
+👨‍💻 My Role in the Project:
 
-Atuo no front-end e parcialmente no back-end.
+I work on the front-end and partially on the backend.
 
- - Desenvolvimento da interface utilizando React
+ - Interface development using React
 
- - Customização visual com SCSS
+ - Visual customization with SCSS
 
- - Integração entre front-end e backend
+ - Front-end and backend integration
 
- - Participação em reuniões com cliente externo
+ - Participation in meetings with external client
 
- - Levantamento e análise de requisitos
+ - Requirements gathering and analysis
 
- - Definição de funcionalidades prioritárias
+ - Definition of priority features
 
-Experiência muito próxima de um ambiente profissional real.
+This experience is very close to a real professional environment.
 
-🛠️ Tecnologias Utilizadas:
+🛠️ Technologies Used:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=flat-square)
@@ -233,64 +238,66 @@ Experiência muito próxima de um ambiente profissional real.
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat-square)
 
-📚 O que eu aprendi com esse projeto:
+📚 What I Learned from This Project:
 
- - Como funciona o desenvolvimento com cliente real
+ - How development works with a real client
 
- - Organização por prazos e entregas
+ - Organization by deadlines and deliveries
 
- - Estruturação de aplicações modernas com React
+ - Structuring modern applications with React
 
- - Conceitos de containerização com Docker
+ - Containerization concepts with Docker
 
- - Comunicação técnica em reuniões
+ - Technical communication in meetings
 
- - Evolução contínua de um sistema em produção
+ - Continuous evolution of a production system
 
-🔗 Repositório: https://github.com/leogianfagna/KartCalendar
+🔗 Repository: https://github.com/leogianfagna/KartCalendar
 
-### 📊 Dashboard Interativo – Copa do Mundo (1930–2014)
+---
 
-🎯 Objetivo do Projeto:
+### 📊 Interactive Dashboard – FIFA World Cup (1930–2014)
 
-Desenvolver um dashboard interativo com dados históricos da Copa do Mundo (1930 a 2014), apresentando estatísticas relevantes do torneio ao longo dos anos.
+🎯 Project Goal:
 
-O projeto foi desenvolvido como aplicação prática do curso Imersão de Dados com Python (Alura), com foco em análise e visualização de dados.
+Develop an interactive dashboard with historical FIFA World Cup data (1930 to 2014), presenting relevant tournament statistics over the years.
 
-👨‍💻 Meu Papel no Projeto:
+The project was developed as a practical application of the Data Immersion with Python course (Alura), focusing on data analysis and visualization.
 
-Projeto desenvolvido individualmente.
+👨‍💻 My Role in the Project:
 
- - Coleta e organização dos dados
+Individually developed project.
 
- - Tratamento e limpeza das informações
+ - Data collection and organization
 
- - Criação das visualizações interativas
+ - Data cleaning and preprocessing
 
- - Estruturação do dashboard
+ - Creation of interactive visualizations
 
-🛠️ Tecnologias Utilizadas:
+ - Dashboard structuring
+
+🛠️ Technologies Used:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square)
 
 
-📚 O que eu aprendi com esse projeto:
+📚 What I Learned from This Project:
 
- - Revisão e aprofundamento em conceitos de Python
+ - Review and deepening of Python concepts
 
- - Manipulação e limpeza de dados com Pandas
+ - Data manipulation and cleaning with Pandas
 
- - Construção de dashboards interativos com Streamlit
+ - Building interactive dashboards with Streamlit
 
- - Transformação de dados brutos em insights visuais
+ - Transforming raw data into visual insights
 
- - Organização de projeto voltado para análise de dados
+ - Structuring projects focused on data analysis
 
-Esse projeto fortaleceu minha base em análise de dados e mostrou como transformar informação histórica em visualizações claras e interativas.
+This project strengthened my foundation in data analysis and demonstrated how to transform historical information into clear and interactive visualizations.
 
-🔗 Repositório: https://fifa-world-cup-dashboard.streamlit.app/
+🔗 Repository: https://fifa-world-cup-dashboard.streamlit.app/
 
 ---
 
